@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/bg_spinner.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/border_shadow.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/custom_black_cursor.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/dialog_accont_in_review.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/drawable_black_rounded_corner_bg.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/drawable_bottom_rounded_black_corner.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/drawable_cancelled_order_text_border.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/drawable_completed_order_text_border.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/drawable_dark_grey_rounded_corner_bg.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/drawable_grey_rounded_corner_bg.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/drawable_otp_focused.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/drawable_otp_normal.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/drawable_otp_selector.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/drawable_pending_order_text_border.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/drawable_rounded_corner_border_black.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/drawable_white_rounded_corner_bg.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/home_tab_selector.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/ic_arrow_drop_down.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/ic_dummy_profile.xml" value="0.24242424242424243" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/rounded_white_border_bg.xml" value="0.24242424242424243" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/seekbar_cutom_thumb.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/seekbar_progress.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/seekbar_style.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/service_selected_bg.xml" value="0.24242424242424243" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/service_unselected_bg.xml" value="0.24242424242424243" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/switch_thumb_selector.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/switch_track_selector.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/text_input_layout_strok_color.xml" value="0.246875" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_add_portfolio.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_barber_terms_policy.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_booking_details.xml" value="0.20902777777777778" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_code_verify.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_get_location.xml" value="0.22401227464518603" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_get_started.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_insight.xml" value="0.2" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_login.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_main.xml" value="0.21458333333333332" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_no_internect.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_notification.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_payment_history.xml" value="0.1284722222222222" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_select_radius.xml" value="0.22" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_select_services.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_show_case.xml" value="0.18" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_splash.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_your_availability.xml" value="0.21388888888888888" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/autocomplete_place_item.xml" value="0.22401227464518603" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/custom_barber_location_pin.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/custom_cancel_reasons_dialog.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/custom_error_dialog.xml" value="0.18611111111111112" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/dialog_account_in_review.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/dialog_delete_portfolio.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/dialog_enable_location_permission.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/dialog_logout.xml" value="0.20902777777777778" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/enable_service_dialog.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/fragment_booking_list.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/fragment_chat_list.xml" value="0.22401227464518603" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/fragment_profile.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_add_portfolio.xml" value="0.2" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_booking.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_chat.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_driver_slots.xml" value="0.21388888888888888" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_header_inbox.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_image.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_most_booked_services.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_order_cancel_reasons.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_payment_history.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_portfolio.xml" value="0.2" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_select_services.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_spinner.xml" value="0.228125" />
+        <entry key="..\:/Bhavesh Workshop/Projects/Running Project/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/no_internet_connection_layout.xml" value="0.228125" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/drawable/drawable_rounded_corner_border_black.xml" value="0.205" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_code_verify.xml" value="0.2736212056434374" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_get_location.xml" value="0.2702009405728944" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_get_started.xml" value="0.5" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_get_started_new.xml" value="0.5" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_login.xml" value="0.6555555555555556" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_profile.xml" value="0.5" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_select_country.xml" value="0.33" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_select_radius.xml" value="0.5" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/activity_your_availability.xml" value="0.2702009405728944" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/choose_image_dialog.xml" value="0.2702009405728944" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/custom_barber_location_pin.xml" value="0.2702009405728944" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/fragment_booking_list.xml" value="1.3352272727272727" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/fragment_home.xml" value="0.2702009405728944" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/fragment_profile.xml" value="0.2702009405728944" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_country.xml" value="0.5" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_most_booked_services.xml" value="0.5" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_spinner.xml" value="0.2736212056434374" />
+        <entry key="..\:/Fade_driverToParth/Fade_driver/fadedriver_android/FadeDriver/app/src/main/res/layout/item_spinner_country_code.xml" value="0.75" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
