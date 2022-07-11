@@ -4,7 +4,7 @@
 
     To get one, follow this link, follow the directions and press "Create" at the end:
 
-    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=25:E2:79:2D:DB:92:61:15:07:7C:6F:70:67:D5:1A:7A:46:31:DF:B8%3Bcom.android.fadedriver.ui
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=25:E2:79:2D:DB:92:61:15:07:7C:6F:70:67:D5:1A:7A:46:31:DF:B8%3Bcom.eclipsa.fadedriver.ui
 
     You can also add your credentials to an existing key, using these values:
 

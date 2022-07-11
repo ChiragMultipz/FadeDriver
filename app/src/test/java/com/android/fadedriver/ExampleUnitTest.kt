@@ -1,4 +1,4 @@
-package com.android.fadedriver
+package com.eclipsa.fadedriver
 
 import org.junit.Test
 
